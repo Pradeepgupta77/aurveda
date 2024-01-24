@@ -1,0 +1,7 @@
+.topBar {
+    height: 50px;
+    width: 100vw;
+    background: brown;
+    display: flex;
+    justify-content: space-between;
+}
